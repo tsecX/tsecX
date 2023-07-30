@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tsecX&left_color=green&right_color=red)
+![](https://komarev.com/ghpvc/?tsecX&color=blue)
 <!--
 **tsecX/tsecX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
