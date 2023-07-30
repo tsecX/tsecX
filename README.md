@@ -1,5 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7E8&width=435&lines=Welcome+to+tsecX!)](https://git.io/typing-svg)
 
+![HackerGif](https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tsecX&theme=tokyonight)](https://git.io/streak-stats)
 
 ![GithubHits](https://komarev.com/ghpvc/?username=tsecX&color=blue&label=Visitors)
