@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7E8&width=435&lines=Welcome+to+tsecX!)](https://git.io/typing-svg) 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7E8&width=435&lines=Welcome+to+tsecX!)](https://git.io/typing-svg)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tsecX&theme=tokyonight)](https://git.io/streak-stats)
 
