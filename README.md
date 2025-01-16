@@ -1,6 +1,6 @@
 <div align="center">
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7E8&width=435&lines=Welcome+to+tsecX!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7E8&width=435&lines=Welcome+to+my+domain!)](https://git.io/typing-svg)
 
 ![HackerGif](https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif)
 
